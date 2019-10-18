@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Training-v2
 
 ## Como correr el proyecto:
@@ -49,3 +50,6 @@ https://www.quora.com/Why-is-data-validation-important
 Hacer las routas CRUD para el resource 'users'. El usuario debe tener los campos `name`, `id`, `nickname`. 
 Tener en cuenta que ahora los productos deberan tener un campo `owner`. 
 Hacer la lógica correspondiente para validar que los productos tengan un owner al crearlos, que solo el mismo owner pueda modificar el producto y que solo el mismo owner pueda eliminar su producto.
+=======
+# krowdy-challenge
+>>>>>>> 7223676fd79d73fd30bf0bb48e2c724455d5d503
